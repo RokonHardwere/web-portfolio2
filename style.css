@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: deeppink;
+    font-size: 50px;
+    font-weight: 700;
+}
+section{
+    height: 450px;
+    padding: 150px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: deeppink;
+    color: white;
+}
+img{
+    width: 80%;
+}
+.biography-banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.postion-change{
+    position: absolute;
+    right: 100px;
+    bottom: -500px;
+}
