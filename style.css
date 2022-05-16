@@ -43,3 +43,42 @@ img{
     right: 100px;
     bottom: -500px;
 }
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.latest-work-position{
+    width: 33%;
+    float: left;
+    padding-left: 3px;   
+    padding-top: 50px;
+}
+.bottom-banner{
+    background-image: url(images/footer-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.details{
+    text-align: center;
+}
+.about{
+    padding-bottom: 20px;
+}
+#contact-us{
+    background-color: deeppink;
+    padding: 25px 160px;
+    border-radius: 10px;
+    margin: 40px 160px;
+    color: white;
+}
+span{
+    font-size: 15px;
+    color: lightgray;
+}
+.smt-bio{
+    font-size :15px; ;
+    color: lightgray;
+}
